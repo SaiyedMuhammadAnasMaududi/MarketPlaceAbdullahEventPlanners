@@ -74,7 +74,7 @@ const Landing = () => {
           <Image
             width={434}
             height={584}
-            src="https://www.shutterstock.com/image-photo/cateringbuffetfoodindoorrestaurant-600nw-2512071019.jpg"
+            src={`/images/image.png`}
             alt="Catering Setup"
             className="object-cover rounded-lg shadow-lg"
           />

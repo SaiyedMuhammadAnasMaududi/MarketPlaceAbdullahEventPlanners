@@ -18,7 +18,7 @@ const Footer = () => {
       {/* Left Section */}
       <div className="flex flex-col space-y-3 text-black">
         <div className="flex items-center space-x-3">
-          <Image width={40} height={40} src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/black-illustration-catering-logo-design-template-51b30376ece56f6b781a735bb19ac808_screen.jpg?ts=1697531480" alt="logofooter" />
+          <Image width={40} height={40} src="/images/image1.png" alt="logofooter" />
           <p className="text-[20px] font-semibold text-[#029fae]">Abdullah Event Planners</p>
         </div>
         <div className="max-w-[350px]">

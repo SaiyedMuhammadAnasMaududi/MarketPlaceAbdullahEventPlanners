@@ -13,7 +13,7 @@ const Header = () => {
         {/* Logo Section */}
         <div className={`${inter.className} flex items-center space-x-2`}>
           <Image
-            src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/black-illustration-catering-logo-design-template-51b30376ece56f6b781a735bb19ac808_screen.jpg?ts=1697531480"
+            src={`/images/image1.png`}
             width={40}
             height={40}
             alt="logo"

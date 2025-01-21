@@ -89,10 +89,10 @@ export default async function DestinationPage({ params }: { params: { id: string
       <div className="max-w-6xl mx-auto mt-12">
         <h3 className="text-xl font-bold text-gray-800 mb-6 px-6">Explore More Views</h3>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-6">
-          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`https://img.dunyanews.tv/news/2021/September/09-27-21/news_big_images/621608_86738312.jpg`} alt="Explore more" className="h-auto w-auto rounded-lg " /></div>
-          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`https://hips.hearstapps.com/hmg-prod/images/the-dolomites-itlay-veranda-most-beautiful-places-in-europe-66a1720c719dd.jpg`} alt="Explore more" className="h-auto w-auto rounded-lg"/></div>
-          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`https://pyaraskardu.com/wp-content/uploads/2022/10/Title-Neelum-Valley-Azad-Kashmir-1-960x636.jpg`} alt="Explore more" className="h-auto w-auto rounded-lg" /></div>
-          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`https://blog.thomascook.in/wp-content/uploads/2017/01/Santorini-Greece.jpg`} alt="Explore more" className="h-auto w-auto rounded-lg"  /></div>
+          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`/images/image2.png`} alt="Explore more" className="h-auto w-auto rounded-lg " /></div>
+          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`/images/image3.png`} alt="Explore more" className="h-auto w-auto rounded-lg"/></div>
+          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`/images/image3.png`} alt="Explore more" className="h-auto w-auto rounded-lg" /></div>
+          <div className="h-40 bg-gray-200 rounded-lg shadow-md"><img src={`/images/image4.png`} alt="Explore more" className="h-auto w-auto rounded-lg"  /></div>
         </div>
       </div>
 
