@@ -26,6 +26,7 @@ const Belowheader = () => {
         <Link href="/Home/about" aria-label="Go to about page">
           <p className="text-[14px] font-medium">Reservations</p>
         </Link>
+        <p><Link href="/admin/login" className="bg-blue-500 px-3 py-1 rounded">Admin</Link></p>
       </div>
 
       {/* Contact Information Section */}
